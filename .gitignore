@@ -1,0 +1,46 @@
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.DS_Store
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.orig
+release.properties
+.flattened-pom.xml
+.m2/
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!gradle-wrapper.jar
+.gradletasknamecache
+
+# Spring Boot
+application.properties
+application.yml
+.env
+
+# Compiled sources
+*.class
+*.jar
+*.war
+*.ear
+
+# System files
+Thumbs.db
+.DS_Store
+*.log
