@@ -1,0 +1,16 @@
+com/biblioteca/service/UsuarioService.class
+com/biblioteca/controller/EmprestimoController.class
+com/biblioteca/entity/Livro.class
+com/biblioteca/service/EmprestimoService.class
+com/biblioteca/dto/UsuarioDTO.class
+com/biblioteca/dto/EmprestimoDTO.class
+com/biblioteca/dto/LivroDTO.class
+com/biblioteca/repository/UsuarioRepository.class
+com/biblioteca/controller/LivroController.class
+com/biblioteca/BibliotecaApplication.class
+com/biblioteca/entity/Emprestimo.class
+com/biblioteca/repository/EmprestimoRepository.class
+com/biblioteca/entity/Usuario.class
+com/biblioteca/repository/LivroRepository.class
+com/biblioteca/controller/UsuarioController.class
+com/biblioteca/service/LivroService.class
